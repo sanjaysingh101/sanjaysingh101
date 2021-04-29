@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AR Projects**
 
-- 👨‍💻 All of my projects are available at [www.sanjaysingh.live](www.sanjaysingh.live)
+- 👨‍💻 All of my projects are available at [https://sanjaysingh.live/work](https://sanjaysingh.live/work)
 
 - 💬 Ask me about **AR/VR and Game Dev**
 
