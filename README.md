@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">A passionate XR developer from India</h3>
 
-- 🌱 I’m currently Mastering **Unity Engine**
+- 🌱 I’m currently Mastering **XR Development**
 
 - 👯 I’m looking to collaborate on **AR Projects**
 
